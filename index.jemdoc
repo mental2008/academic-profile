@@ -16,7 +16,7 @@ Personal Blog (in Chinese): [https://blog.yanglingyun.me/ https:\/\/blog.yanglin
 
 == About Me
 
-I am currently a Ph.D. student in [https://www.cse.ust.hk/ Department of Science and Engineering] from [http://www.ust.hk/ Hong Kong University of Science and Technology (HKUST)]. I am fortunate to work with [https://www.cse.ust.hk/~weiwa/index.html Prof. Wei Wang]. Before that, I received my B.Eng. degree in [http://www.scut.edu.cn/cs/ School of Computer Science and Engineering] from [https://www.scut.edu.cn/ Souch China University of Technology (SCUT)] in 2020. My research interests include machine learning for system, cloud computing and resource management for large-scale clusters.
+I am currently a Ph.D. student in [https://www.cse.ust.hk/ Department of Science and Engineering] from [http://www.ust.hk/ Hong Kong University of Science and Technology (HKUST)]. I am fortunate to work with [https://www.cse.ust.hk/~weiwa/index.html Prof. Wei Wang]. Before that, I received my B.Eng. degree in [http://www.scut.edu.cn/cs/ School of Computer Science and Engineering] from [https://www.scut.edu.cn/ South China University of Technology (SCUT)] in 2020. My research interests include machine learning for system, cloud computing and resource management for large-scale clusters.
 
 == Contact
 
@@ -35,7 +35,7 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 == Publications
 
-- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving", to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[https://kubedl.io/tuning/intro/ website]\]\[[[https://github.com/kubedl-io/morphling code]\]
+- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving", to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[https://kubedl.io/tuning/intro/ website]\]
 
 == Selected Honors
 
