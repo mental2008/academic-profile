@@ -13,7 +13,7 @@ Clear Water Bay, Kowloon, Hong Kong
 
 == About Me
 
-I am currently a Ph.D. student in [https://www.cse.ust.hk/ Department of Science and Engineering] from [http://www.ust.hk/ Hong Kong University of Science and Technology (HKUST)]. I am fortunate to work with [https://www.cse.ust.hk/~weiwa/index.html Prof. Wei Wang]. Before that, I received my B.Eng. degree in [http://www.scut.edu.cn/cs/ School of Computer Science and Engineering] from [https://www.scut.edu.cn/ South China University of Technology (SCUT)] in 2020. My research interests include machine learning for systems, cloud computing and resource management for large-scale clusters.
+I am a Ph.D. student in [https://www.cse.ust.hk/ Department of Science and Engineering] from [http://www.ust.hk/ Hong Kong University of Science and Technology (HKUST)]. I am fortunate to work with [https://www.cse.ust.hk/~weiwa/index.html Prof. Wei Wang]. Before that, I received my B.Eng. degree in [http://www.scut.edu.cn/cs/ School of Computer Science and Engineering] from [https://www.scut.edu.cn/ South China University of Technology (SCUT)] in 2020. My current research interests foucs on resource management for large-scale GPU clusters.
 
 == Contact
 
@@ -32,7 +32,7 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 == Publications
 
-- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving", to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[https://kubedl.io/tuning/intro/ website]\]
+- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving", to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]
 
 == Selected Honors
 
@@ -49,4 +49,5 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 == Others
 
 - I'm actively maintaining [https://paper.yanglingyun.me/ a personal website] about my paper reading notes (including machine learning, systems, and other interesting stuffs) and [https://blog.yanglingyun.me/ a personal blog (in Chinese)].
+- I'm also active online, please feel free to touch me!
 
