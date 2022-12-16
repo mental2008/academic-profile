@@ -2,7 +2,7 @@
 
 ~~~
 {}{img_left}{Photo_Lingyun.jpg}{alt text}{200px}{200px}{Photo_Lingyun.jpg}
-Ph.D. Student
+Ph.D. Candidate
 
 Department of Computer Science and Engineering,\n
 Hong Kong University of Science and Technology,\n
@@ -30,7 +30,7 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 - /Research Intern/, Alibaba Group, Dec. 2020 - Present
 - /Research Intern/, Microsoft Research Asia (MSRA), Jul. 2019 - Jun. 2020
 
-== Publications
+== Selected Publications
 
 - Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving", to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[files/morphling-socc21.bib bibtex]\]
 
@@ -49,5 +49,3 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 == Others
 
 - I'm actively maintaining [https://paper.yanglingyun.me/ a personal website] about my paper reading notes (including machine learning, systems, and other interesting stuffs) and [https://blog.yanglingyun.me/ a personal blog (in Chinese)].
-- I'm also active online, please feel free to touch me!
-
