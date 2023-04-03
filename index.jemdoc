@@ -1,7 +1,7 @@
 = Lingyun Yang (杨凌云)
 
 ~~~
-{}{img_left}{Photo_Lingyun.jpg}{alt text}{200px}{200px}{Photo_Lingyun.jpg}
+{}{img_left}{Photo_Lingyun.jpg}{alt text}{225px}{300px}{Photo_Lingyun.jpg}
 Ph.D. Candidate
 
 Department of Computer Science and Engineering,\n
@@ -17,7 +17,7 @@ I am a Ph.D. student in [https://www.cse.ust.hk/ Department of Science and Engin
 
 == Contact
 
-Office: CYT 3007, HKUST\n
+Office: BDI 101, University Center, HKUST\n
 Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 == Education
@@ -41,9 +41,14 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 - National Scholarship, China, 2019
 - The First Prize Scholarship, SCUT, 2017
 
+== Academic Services
+
+- Artifact Evaluation Committee: MLSys (2023)
+- External Reviewer: INFOCOM (2022, 2023), ICDCS (2023), APSys (2021)
+
 == Teaching Assistant
 
-- CSIT6000O: Advanced Cloud Computing (Spring 2022)
+- CSIT6000O: Advanced Cloud Computing (Spring 2022, Spring 2023)
 - COMP4651: Cloud Computing and Big Data Systems (Spring 2021, Fall 2021)
 
 == Others
