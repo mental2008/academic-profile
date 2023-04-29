@@ -32,7 +32,8 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 == Selected Publications
 
-- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving," to appear in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC ’21*), Seattle, WA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[files/morphling-socc21.bib bibtex]\]
+- Qizhen Weng\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang, "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent," to appear in the /Proceedings of USENIX Annual Technical Conference/ (*ATC '21*), Boston, MA, USA, July 2023. (\*Co-first authors in alphabetical order)
+- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving," in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC '21*), Seattle, WA, USA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[files/morphling-socc21.bib bibtex]\]
 
 == Selected Honors
 
