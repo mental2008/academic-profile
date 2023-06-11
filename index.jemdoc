@@ -22,18 +22,25 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 == Education
 
-- Ph.D., Computer Science and Engineering, [http://www.ust.hk/ Hong Kong University of Science and Technology], 2020 -- Present
-- B.Eng., Computer Science and Engineering, [https://www.scut.edu.cn/ South China University of Technology], 2016 -- 2020
+- {{<img src="files/HKUST_logo.svg" alt="NZ" width="50" height="50"/>}} Ph.D., Computer Science and Engineering, [http://www.ust.hk/ Hong Kong University of Science and Technology], 2020 -- Present
+- {{<img src="files/SCUT_logo.png" alt="NZ" width="50" height="50"/>}} B.Eng., Computer Science and Engineering, [https://www.scut.edu.cn/ South China University of Technology], 2016 -- 2020
 
 == Experience
 
 - /Research Intern/, Alibaba Group, Dec. 2020 -- Present
 - /Research Intern/, Microsoft Research Asia (MSRA), Jul. 2019 -- Jun. 2020
 
-== Selected Publications
+== Publications
 
-- Qizhen Weng\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang, "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent," to appear in the /Proceedings of USENIX Annual Technical Conference/ (*ATC '21*), Boston, MA, USA, July 2023. (\*Co-first authors in alphabetical order)
-- Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang, "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving," in the /Proceedings of ACM Symposium on Cloud Computing/ (*SoCC '21*), Seattle, WA, USA, November 2021. (\*Co-first authors in alphabetical order) \[[papers/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[files/morphling-socc21.bib bibtex]\]
+- \[*ATC '23*\] Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent \n
+  Qizhen Weng\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang (\*Co-first authors) \n
+  \[[https://github.com/hkust-adsl/kubernetes-scheduler-simulator code]\]\[[https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2023 trace]\]\[[files/fgd-atc23.bib bibtex]\]\[[https://www.usenix.org/conference/atc23/presentation/weng usenix]\]
+- \[*SoCC '22*\] Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly \n
+  Yongkang Zhang, Yinghao Yu, Wei Wang, Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding, Qizhen Weng, *Lingyun Yang*, Cheng Wang, Jian He, Guodong Yang, and Liping Zhang \n
+  \[[files/zhang-socc2022.pdf paper]\]\[[files/zhang-socc2022.bib bibtex]\]\[[https://dl.acm.org/doi/10.1145/3542929.3563465 doi]\]
+- \[*SoCC '21*\] Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving \n
+  Luping Wang\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang (\*Co-first authors) \n
+  \[[files/morphling-socc21.pdf paper]\]\[[https://github.com/kubedl-io/morphling code]\]\[[files/morphling-socc21.bib bibtex]\]\[[https://dl.acm.org/doi/10.1145/3472883.3486987 doi]\]
 
 == Selected Honors
 
