@@ -6,13 +6,19 @@ Three steps to update my academic profile:
 2. Generate `index.html` based on the source file.
 
 ```bash
-$ python jemdoc.py index.jemdoc
+$ python3 jemdoc.py index.jemdoc
 ```
 
 3. Update `index.html` in the server.
 
 ```bash
 $ scp index.html lyangbk@ras.cse.ust.hk:~/public_html/
+```
+
+4. Upload `files` folder.
+
+```bash
+$ scp files lyangbk@ras.cse.ust.hk:~/public_html/
 ```
 
 Here is the webpage of my academic profile: https://www.cse.ust.hk/~lyangbk/.
