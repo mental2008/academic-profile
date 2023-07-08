@@ -34,7 +34,7 @@ Email: lyangbk \[at\] cse \[dot\] ust \[dot\] hk\n
 
 - \[*ATC '23*\] Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent \n
   Qizhen Weng\*, *Lingyun Yang*\*, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang (\*Co-first authors) \n
-  \[[https://github.com/hkust-adsl/kubernetes-scheduler-simulator code]\]\[[https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2023 trace]\]\[[files/fgd-atc23.bib bibtex]\]\[[https://www.usenix.org/conference/atc23/presentation/weng usenix]\]
+  \[[files/fgd-atc23.pdf paper]\]\[[files/fgd-poster-atc23.pdf poster]\]\[[https://github.com/hkust-adsl/kubernetes-scheduler-simulator code]\]\[[https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2023 trace]\]\[[files/fgd-atc23.bib bibtex]\]\[[https://www.usenix.org/conference/atc23/presentation/weng usenix]\]
 - \[*SoCC '22*\] Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly \n
   Yongkang Zhang, Yinghao Yu, Wei Wang, Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding, Qizhen Weng, *Lingyun Yang*, Cheng Wang, Jian He, Guodong Yang, and Liping Zhang \n
   \[[files/zhang-socc2022.pdf paper]\]\[[files/zhang-socc2022.bib bibtex]\]\[[https://dl.acm.org/doi/10.1145/3542929.3563465 doi]\]
