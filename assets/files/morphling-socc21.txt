@@ -1,0 +1,6 @@
+@inproceedings{wang2021Morphling,
+    title = {Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving},
+    author = {Wang, Luping and Yang, Lingyun and Yu, Yinghao and Wang, Wei and Li, Bo and Sun, Xianchao and He, Jian and Zhang, Liping},
+    booktitle = {Proceedings of the 12th ACM Symposium on Cloud Computing},
+    year = {2021}
+}

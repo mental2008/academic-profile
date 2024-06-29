@@ -1,0 +1,24 @@
+main:
+
+  - title: "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent"
+    authors: Qizhen Weng*, <strong><u>Lingyun Yang</u>*</strong>, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang (*Co-first authors)
+    conference_short: ATC
+    conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2023.
+    source: https://www.usenix.org/conference/atc23/presentation/weng
+    pdf: ./assets/files/fgd-atc23.pdf
+    poster: ./assets/files/fgd-poster-atc23.pdf
+    code: https://github.com/hkust-adsl/kubernetes-scheduler-simulator
+    bibtex: ./assets/files/fgd-atc23.txt
+    image: ./assets/img/FGD-cover.png
+    # notes: Released GPU-sharing trace
+
+  - title: "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving"
+    authors: Luping Wang*, <strong><u>Lingyun Yang</u>*</strong>, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang (*Co-first authors)
+    conference_short: SoCC
+    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2021.
+    source: https://dl.acm.org/doi/10.1145/3472883.3486987
+    pdf: ./assets/files/morphling-socc21.pdf
+    code: https://github.com/kubedl-io/morphling
+    bibtex: ./assets/files/morphling-socc21.txt
+    image: ./assets/img/Moprhling-cover.png
+    # notes: Deployed at Alibaba
