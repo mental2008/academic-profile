@@ -23,7 +23,7 @@ I am currently a Ph.D. student in [Department of Computer Science and Engineerin
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-<!-- {% include_relative _includes/news.md %} -->
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/education.md %}
 

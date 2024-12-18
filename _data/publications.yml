@@ -1,5 +1,11 @@
 main:
 
+  - title: "GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale"
+    authors: <strong><u>Lingyun Yang</u></strong>, Yongchen Wang, Yinghao Yu, Qizhen Weng, Jianbo Dong, Kan Liu, Chi Zhang, Yanyi Zi, Hao Li, Zechao Zhang, Nan Wang, Yu Dong, Menglei Zheng, Lanlan Xi, Xiaowei Lu, Liang Ye, Guodong Yang, Binzhang Fu, Tao Lan, Liping Zhang, Lin Qu, Wei Wang
+    conference_short: NSDI
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
+    image: ./assets/img/Prism-cover.png
+
   - title: "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent"
     authors: Qizhen Weng*, <strong><u>Lingyun Yang</u>*</strong>, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang (*Co-first authors)
     conference_short: ATC
