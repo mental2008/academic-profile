@@ -4,6 +4,10 @@ main:
     authors: <strong><u>Lingyun Yang</u></strong>, Yongchen Wang, Yinghao Yu, Qizhen Weng, Jianbo Dong, Kan Liu, Chi Zhang, Yanyi Zi, Hao Li, Zechao Zhang, Nan Wang, Yu Dong, Menglei Zheng, Lanlan Xi, Xiaowei Lu, Liang Ye, Guodong Yang, Binzhang Fu, Tao Lan, Liping Zhang, Lin Qu, Wei Wang
     conference_short: NSDI
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
+    source: https://www.usenix.org/conference/nsdi25/presentation/yang
+    pdf: ./assets/files/prism-nsdi25.pdf
+    trace: https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2025
+    bibtex: ./assets/files/prism-nsdi25.txt
     image: ./assets/img/Prism-cover.png
 
   - title: "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent"
@@ -14,6 +18,7 @@ main:
     pdf: ./assets/files/fgd-atc23.pdf
     poster: ./assets/files/fgd-poster-atc23.pdf
     code: https://github.com/hkust-adsl/kubernetes-scheduler-simulator
+    trace: https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2023
     bibtex: ./assets/files/fgd-atc23.txt
     image: ./assets/img/FGD-cover.png
     # notes: Released GPU-sharing trace
