@@ -1,5 +1,12 @@
 main:
 
+  - title: "Katz: Efficient Workflow Serving for Diffusion Models with Many Adapters"
+    authors: Suyi Li*, <strong><u>Lingyun Yang</u>*</strong>, Xiaoxiao Jiang, Hanfeng Lu, Dakai An, Zhipeng Di, Weiyi Lu, Jiawei Chen, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang (*Co-first authors)
+    conference_short: ATC
+    conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2025.
+    arxiv: https://arxiv.org/pdf/2407.02031
+    image: ./assets/img/Katz-evaluation.png
+
   - title: "GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale"
     authors: <strong><u>Lingyun Yang</u></strong>, Yongchen Wang, Yinghao Yu, Qizhen Weng, Jianbo Dong, Kan Liu, Chi Zhang, Yanyi Zi, Hao Li, Zechao Zhang, Nan Wang, Yu Dong, Menglei Zheng, Lanlan Xi, Xiaowei Lu, Liang Ye, Guodong Yang, Binzhang Fu, Tao Lan, Liping Zhang, Lin Qu, Wei Wang
     conference_short: NSDI
