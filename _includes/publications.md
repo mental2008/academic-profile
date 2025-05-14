@@ -31,7 +31,7 @@
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.trace }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       {% endif %}
       {% if link.trace %} 
       <a href="{{ link.trace }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Trace</a>

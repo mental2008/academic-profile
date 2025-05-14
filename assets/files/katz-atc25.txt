@@ -1,0 +1,6 @@
+@inproceedings{li2025Katz,
+  title = {Katz: {{Efficient}} workflow serving for diffusion models with many adapters},
+  author = {Li, Suyi and Yang, Lingyun and Jiang, Xiaoxiao and Lu, Hanfeng and Di, Zhipeng and Lu, Weiyi and Chen, Jiawei and Liu, Kan and Yu, Yinghao and Lan, Tao and Yang, Guodong and Qu, Lin and Zhang, Liping and Wang, Wei},
+  booktitle = {Proc. USENIX ATC},
+  year = {2025}
+}

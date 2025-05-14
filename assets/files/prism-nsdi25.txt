@@ -1,6 +1,6 @@
-@inproceedings{yang2023Prism,
-    title = {GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale},
-    author = {Lingyun Yang and Yongchen Wang and Yinghao Yu and Qizhen Weng and Jianbo Dong and Kan Liu and Chi Zhang and Yanyi Zi and Hao Li and Zechao Zhang and Nan Wang and Yu Dong and Menglei Zheng and Lanlan Xi and Xiaowei Lu and Liang Ye and Guodong Yang and Binzhang Fu and Tao Lan and Liping Zhang and Lin Qu and Wei Wang},
-    booktitle = {22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI 25)},
-    year = {2025}
+@inproceedings{yang2025Prism,
+  title = {{{GPU-disaggregated}} serving for deep learning recommendation models at scale},
+  author = {Yang, Lingyun and Wang, Yongchen and Yu, Yinghao and Weng, Qizhen and Dong, Jianbo and Liu, Kan and Zhang, Chi and Zi, Yanyi and Li, Hao and Zhang, Zechao and Wang, Nan and Dong, Yu and Zheng, Menglei and Xi, Lanlan and Lu, Xiaowei and Ye, Liang and Yang, Guodong and Fu, Binzhang and Lan, Tao and Zhang, Liping and Qu, Lin and Wang, Wei},
+  booktitle = {Proc. USENIX NSDI},
+  year = {2025}
 }

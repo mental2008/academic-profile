@@ -1,7 +1,7 @@
 ## Academic Services
 
 - <strong>Artifact Evaluation Committee: </strong>SIGCOMM (2024), HPCA (2024), SOSP (2023), OSDI (2023), ATC (2023), MLSys (2023)
-- <strong>External Reviewer: </strong>INFOCOM (2022 -- 2024), ICNP (2024), ICDCS (2023), APSys (2021), MSN (2021), Qshine (2020)
+- <strong>External Reviewer: </strong>INFOCOM (2022 -- 2025), ICNP (2024), ICDCS (2023, 2025), APSys (2021), MSN (2021), Qshine (2020)
 - <strong>Student Volunteer: </strong>APNet (2023), ICMLC & ICWAPR (2018)
 
 <!-- <ul style="margin:0 0 5px;">

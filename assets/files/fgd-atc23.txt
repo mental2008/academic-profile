@@ -1,6 +1,6 @@
 @inproceedings{weng2023FGD,
-    title = {Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent},
-    author = {Qizhen Weng and Lingyun Yang and Yinghao Yu and Wei Wang and Xiaochuan Tang and Guodong Yang and Liping Zhang},
-    booktitle = {2023 {USENIX} Annual Technical Conference},
-    year = {2023}
+  title = {Beware of fragmentation: {{Scheduling GPU-sharing}} workloads with fragmentation gradient descent},
+  author = {Weng, Qizhen and Yang, Lingyun and Yu, Yinghao and Wang, Wei and Tang, Xiaochuan and Yang, Guodong and Zhang, Liping},
+  booktitle = {Proc. USENIX ATC},
+  year = {2023}
 }
