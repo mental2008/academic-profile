@@ -4,9 +4,13 @@ main:
     authors: Suyi Li*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Xiaoxiao Jiang, Hanfeng Lu, Dakai An, Zhipeng Di, Weiyi Lu, Jiawei Chen, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
     conference_short: ATC
     conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2025.
-    arxiv: https://arxiv.org/abs/2407.02031
+    source: https://www.usenix.org/conference/atc25/presentation/li-suyi-katz
+    pdf: ./assets/files/katz-atc25.pdf
+    code: https://github.com/modelscope/Katz
+    trace: https://modelscope.cn/datasets/mental2008/T2I-Model-Serving-Request-Trace
     bibtex: ./assets/files/katz-atc25.txt
-    image: ./assets/img/Katz-evaluation.png
+    arxiv: https://arxiv.org/abs/2407.02031
+    image: ./assets/img/Katz-cover.png
 
   - title: "GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale"
     authors: <strong><u>Lingyun Yang</u></strong>, Yongchen Wang, Yinghao Yu, Qizhen Weng, Jianbo Dong, Kan Liu, Chi Zhang, Yanyi Zi, Hao Li, Zechao Zhang, Nan Wang, Yu Dong, Menglei Zheng, Lanlan Xi, Xiaowei Lu, Liang Ye, Guodong Yang, Binzhang Fu, Tao Lan, Liping Zhang, Lin Qu, Wei Wang
