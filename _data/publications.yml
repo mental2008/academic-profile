@@ -9,6 +9,7 @@ main:
     code: https://github.com/modelscope/Katz
     trace: https://modelscope.cn/datasets/mental2008/T2I-Model-Serving-Request-Trace
     bibtex: ./assets/files/katz-atc25.txt
+    slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc25_slides_yang_lingyun.pdf
     arxiv: https://arxiv.org/abs/2407.02031
     image: ./assets/img/Katz-cover.png
 

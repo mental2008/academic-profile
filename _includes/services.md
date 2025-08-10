@@ -1,8 +1,9 @@
 ## Academic Services
 
-- <strong>Artifact Evaluation Committee: </strong>SIGCOMM (2024), HPCA (2024), SOSP (2023), OSDI (2023), ATC (2023), MLSys (2023)
-- <strong>External Reviewer: </strong>INFOCOM (2022 -- 2025), ICNP (2024), ICDCS (2023, 2025), APSys (2021), MSN (2021), Qshine (2020)
-- <strong>Student Volunteer: </strong>APNet (2023), ICMLC & ICWAPR (2018)
+- <strong>Artifact Evaluation Committee: </strong>ACM SOSP (2023, 2025), ACM SIGCOMM (2024), IEEE HPCA (2024), USENIX OSDI (2023), USENIX ATC (2023), MLSys (2023)
+- <strong>External Conference Reviewer: </strong>IEEE INFOCOM (2022 -- 2025), IEEE ICDCS (2023, 2025), IEEE ICNP (2024), ACM APSys (2021), IEEE MSN (2021), EAI Qshine (2020)
+- <strong>External Journal Reviewer: </strong>IEEE Transactions on Cloud Computing (2025)
+- <strong>Student Volunteer: </strong>ACM APNet (2023), IEEE ICMLC & ICWAPR (2018)
 
 <!-- <ul style="margin:0 0 5px;">
   <li><autocolor></autocolor></li>
