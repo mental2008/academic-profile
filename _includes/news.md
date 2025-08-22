@@ -1,5 +1,6 @@
 ## News
 
+- 08/2025: I passed my PhD thesis defense!
 - 04/2025: Katz accepted to [USENIX ATC '25](https://www.usenix.org/conference/atc25).
 - 12/2024: Prism accepted to [USENIX NSDI '25](https://www.usenix.org/conference/nsdi25).
 - 04/2023: FGD accepted to [USENIX ATC '23](https://www.usenix.org/conference/atc23).
