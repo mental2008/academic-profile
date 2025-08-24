@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student in [Department of Computer Science and Engineering](https://www.cse.ust.hk/) from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/). I am fortunate to work with [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html). Before that, I received my B.Eng. degree in [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/) from [South China University of Technology (SCUT)](https://www.scut.edu.cn/) in 2020.
+I recently graduated from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), [Department of Computer Science and Engineering](https://www.cse.ust.hk/). I was fortunate to work with [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html). Before that, I received my B.Eng. degree in [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/) from [South China University of Technology (SCUT)](https://www.scut.edu.cn/) in 2020.
 
 <!-- <span style="font-style: italic;">I am expected to graduate in Fall 2025 and actively looking for opportunities in industry.</span> -->
 <!-- Please feel free to contact me if you are interested in my research. -->

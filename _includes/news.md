@@ -1,5 +1,6 @@
 ## News
 
+- 08/2025: FlashPS accepted to [ACM EuroSys '25](https://2026.eurosys.org).
 - 08/2025: I passed my PhD thesis defense!
 - 04/2025: Katz accepted to [USENIX ATC '25](https://www.usenix.org/conference/atc25).
 - 12/2024: Prism accepted to [USENIX NSDI '25](https://www.usenix.org/conference/nsdi25).
