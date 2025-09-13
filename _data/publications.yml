@@ -1,5 +1,14 @@
 main:
 
+  - title: "FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling"
+    authors: Xiaoxiao Jiang*, Suyi Li* <small>(Co-first author)</small>, <strong><u>Lingyun Yang</u></strong>, Tianyu Feng, Zhipeng Di, Weiyi Lu, Guoxuan Zhu, Xiu Lin, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
+    conference_short: EuroSys
+    conference: ACM European Conference on Computer Systems <strong>(EuroSys)</strong>, 2026.
+    source: https://2026.eurosys.org/index.html
+    arxiv: https://arxiv.org/abs/2505.20600
+    image: ./assets/img/placeholder.png
+    selected: false
+
   - title: "Katz: Efficient Workflow Serving for Diffusion Models with Many Adapters"
     authors: Suyi Li*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Xiaoxiao Jiang, Hanfeng Lu, Dakai An, Zhipeng Di, Weiyi Lu, Jiawei Chen, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
     conference_short: ATC
@@ -12,6 +21,7 @@ main:
     slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc25_slides_yang_lingyun.pdf
     arxiv: https://arxiv.org/abs/2407.02031
     image: ./assets/img/Katz-cover.png
+    selected: true
 
   - title: "GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale"
     authors: <strong><u>Lingyun Yang</u></strong>, Yongchen Wang, Yinghao Yu, Qizhen Weng, Jianbo Dong, Kan Liu, Chi Zhang, Yanyi Zi, Hao Li, Zechao Zhang, Nan Wang, Yu Dong, Menglei Zheng, Lanlan Xi, Xiaowei Lu, Liang Ye, Guodong Yang, Binzhang Fu, Tao Lan, Liping Zhang, Lin Qu, Wei Wang
@@ -23,6 +33,7 @@ main:
     slides: https://www.usenix.org/system/files/nsdi25_slides-yang.pdf
     bibtex: ./assets/files/prism-nsdi25.txt
     image: ./assets/img/Prism-cover.png
+    selected: true
 
   - title: "Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent"
     authors: Qizhen Weng*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Yinghao Yu, Wei Wang, Xiaochuan Tang, Guodong Yang, Liping Zhang
@@ -36,7 +47,17 @@ main:
     trace: https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2023
     bibtex: ./assets/files/fgd-atc23.txt
     image: ./assets/img/FGD-cover.png
+    selected: true
     # notes: Released GPU-sharing trace
+
+  - title: "Workload Consolidation in Alibaba Clusters: The Good, the Bad, and the Ugly"
+    authors: Yongkang Zhang, Yinghao Yu, Wei Wang, Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding, Qizhen Weng, <strong><u>Lingyun Yang</u></strong>, Cheng Wang, Jian He, Guodong Yang, Liping Zhang
+    conference_short: SoCC
+    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2022.
+    source: https://dl.acm.org/doi/10.1145/3542929.3563465
+    pdf: ./assets/files/workload-consolidation-socc22.pdf
+    image: ./assets/img/placeholder.png
+    selected: false
 
   - title: "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving"
     authors: Luping Wang*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, and Liping Zhang
@@ -47,4 +68,5 @@ main:
     code: https://github.com/kubedl-io/morphling
     bibtex: ./assets/files/morphling-socc21.txt
     image: ./assets/img/Moprhling-cover.png
+    selected: true
     # notes: Deployed at Alibaba
