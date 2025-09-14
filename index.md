@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I earned my Ph.D. degree in [Department of Computer Science and Engineering](https://www.cse.ust.hk/) from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/).
-I was fortunate to work with [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html).
+I earned my Ph.D. degree in [Department of Computer Science and Engineering](https://www.cse.ust.hk/) from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/) in 2025, advised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html).
 Before that, I received my B.Eng. degree in [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/) from [South China University of Technology (SCUT)](https://www.scut.edu.cn/) in 2020.
 
 <span style="font-style: italic;">I will join Alibaba Group as a Senior Engineer.</span>
@@ -15,16 +14,6 @@ Before that, I received my B.Eng. degree in [School of Computer Science and Engi
 
 - Resource management for large-scale AI/GPU clusters
 - Efficient and low-cost model serving systems
-
-<!-- - **Computer Vision:** image recognition, image generation, video captioning -->
-<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
-
-<!-- ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/news.md %}
 
