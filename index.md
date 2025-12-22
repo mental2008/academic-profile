@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I earned my Ph.D. degree in [Department of Computer Science and Engineering](https://www.cse.ust.hk/) from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/) in 2025, advised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/index.html).
-Before that, I received my B.Eng. degree in [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/) from [South China University of Technology (SCUT)](https://www.scut.edu.cn/) in 2020.
+I am currently a senior engineer at Alibaba Group, working on AI infrastructure. Before that, I received my Ph.D. degree in [Department of Computer Science and Engineering](https://www.cse.ust.hk/) from [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/) and my B.Eng. degree in [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/) from [South China University of Technology (SCUT)](https://www.scut.edu.cn/).
 
-<span style="font-style: italic;">I will join Alibaba Group as a Senior Engineer.</span>
+<span style="font-style: italic;">I am open to potential collaborations. Please feel free to contact me if you are interested in my research.</span>
+<!-- <span style="font-style: italic;">I will join Alibaba Group as a Senior Engineer.</span> -->
 <!-- Please feel free to contact me if you are interested in my research. -->
 
 ## Research Interests
