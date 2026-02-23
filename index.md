@@ -10,10 +10,10 @@ I am currently a senior engineer at Alibaba Group, working on AI infrastructure.
 <!-- <span style="font-style: italic;">I will join Alibaba Group as a Senior Engineer.</span> -->
 <!-- Please feel free to contact me if you are interested in my research. -->
 
-## Research Interests
+<!-- ## Research Interests
 
 - Resource management for large-scale AI/GPU clusters
-- Efficient and low-cost model serving systems
+- Efficient and low-cost model serving systems -->
 
 {% include_relative _includes/news.md %}
 
