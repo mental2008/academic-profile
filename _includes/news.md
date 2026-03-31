@@ -4,10 +4,10 @@
 
 <div class="news" style="margin-bottom: 20px;">
 {% capture recent_news %}
+- 03/2026: One paper accepted to [USENIX OSDI '26](https://www.usenix.org/conference/osdi26) *(CCF-A, acceptance rate: 135/679=<u>19.9%</u>)*.
 - 08/2025: FlashPS accepted to [ACM EuroSys '26](https://2026.eurosys.org) *(CCF-A, acceptance rate: 79/404=<u>19.6%</u>)*.
 - 08/2025: I passed my PhD thesis defense!
 - 04/2025: Katz accepted to [USENIX ATC '25](https://www.usenix.org/conference/atc25) *(CCF-A, acceptance rate: 100/634=<u>15.8%</u>)*.
-- 12/2024: Prism accepted to [USENIX NSDI '25](https://www.usenix.org/conference/nsdi25) *(CCF-A, acceptance rate: 55/401=<u>13.7%</u>)*.
 {% endcapture %}
 {{ recent_news | markdownify }}
 </div>
@@ -15,6 +15,7 @@
 <!-- All News Section (Hidden by default) -->
 <div id="all-news" style="display: none;">
 {% capture all_news %}
+- 03/2026: One paper accepted to [USENIX OSDI '26](https://www.usenix.org/conference/osdi26) *(CCF-A, acceptance rate: 135/679=<u>19.9%</u>)*.
 - 08/2025: FlashPS accepted to [ACM EuroSys '26](https://2026.eurosys.org) *(CCF-A, acceptance rate: 79/404=<u>19.6%</u>)*.
 - 08/2025: I passed my PhD thesis defense!
 - 04/2025: Katz accepted to [USENIX ATC '25](https://www.usenix.org/conference/atc25) *(CCF-A, acceptance rate: 100/634=<u>15.8%</u>)*.

@@ -1,5 +1,13 @@
 main:
 
+  - title: "Heterogeneity at Hyperscale: Characterization and Scheduling of Alibaba Clusters (Operational Systems)"
+    authors: Suyi Li*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Haoxuan Yu, Sheng Yao, Tianyuan Wu, Xiaoxiao Jiang, Hanfeng Lu, Kangjin Wang, Chenhao Wang, Shenglin Xu, Lun Wang, Qingyang Duan, Shenghao Liang, Xiu Lin, Meng Zhang, Wenchao Wu, Yinghao Yu, Guodong Yang, Liping Zhang, Wei Wang
+    conference_short: OSDI
+    conference: USENIX Symposium on Operating Systems Design and Implementation <strong>(OSDI)</strong>, 2026.
+    source: https://www.usenix.org/conference/osdi26
+    image: ./assets/img/placeholder.png
+    selected: true
+
   - title: "FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling"
     authors: Xiaoxiao Jiang*, Suyi Li* <small>(Co-first author)</small>, <strong><u>Lingyun Yang</u></strong>, Tianyu Feng, Zhipeng Di, Weiyi Lu, Guoxuan Zhu, Xiu Lin, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
     conference_short: EuroSys
