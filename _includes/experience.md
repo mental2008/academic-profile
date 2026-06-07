@@ -1,6 +1,6 @@
 ## Professional Experience
 
-- Senior Engineer, Alibaba Group, Dec. 2025 -- Present
+- Senior Engineer, Alibaba Group, Dec. 2025 -- Present (via [AliStar Top Talent Program](https://campus-talent.alibaba.com/campus/alistar?lang=en))
 
 ## Internship
 

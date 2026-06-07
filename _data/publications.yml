@@ -1,20 +1,25 @@
 main:
 
-  - title: "Heterogeneity at Hyperscale: Characterization and Scheduling of Alibaba Clusters (Operational Systems)"
+  - title: "Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba"
     authors: Suyi Li*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Haoxuan Yu, Sheng Yao, Tianyuan Wu, Xiaoxiao Jiang, Hanfeng Lu, Kangjin Wang, Chenhao Wang, Shenglin Xu, Lun Wang, Qingyang Duan, Shenghao Liang, Xiu Lin, Meng Zhang, Wenchao Wu, Yinghao Yu, Guodong Yang, Liping Zhang, Wei Wang
     conference_short: OSDI
     conference: USENIX Symposium on Operating Systems Design and Implementation <strong>(OSDI)</strong>, 2026.
-    source: https://www.usenix.org/conference/osdi26
-    image: ./assets/img/placeholder.png
+    source: https://www.usenix.org/conference/osdi26/presentation/li-suyi
+    trace: https://github.com/alibaba/clusterdata/blob/master/cluster-trace-gpu-v2026/README.md
+    bibtex: ./assets/files/asi-osdi26.txt
+    image: ./assets/img/asi-cover.png
     selected: true
 
   - title: "FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling"
     authors: Xiaoxiao Jiang*, Suyi Li* <small>(Co-first author)</small>, <strong><u>Lingyun Yang</u></strong>, Tianyu Feng, Zhipeng Di, Weiyi Lu, Guoxuan Zhu, Xiu Lin, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
     conference_short: EuroSys
     conference: ACM European Conference on Computer Systems <strong>(EuroSys)</strong>, 2026.
-    source: https://2026.eurosys.org/index.html
+    source: https://dl.acm.org/doi/10.1145/3767295.3769379
+    pdf: ./assets/files/flashps-eurosys26.pdf
     arxiv: https://arxiv.org/abs/2505.20600
-    image: ./assets/img/placeholder.png
+    code: https://github.com/Sylvia-16/FlashPS
+    bibtex: ./assets/files/flashps-eurosys26.txt
+    image: ./assets/img/flashps-cover.png
     selected: false
 
   - title: "Katz: Efficient Workflow Serving for Diffusion Models with Many Adapters"
@@ -64,7 +69,8 @@ main:
     conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2022.
     source: https://dl.acm.org/doi/10.1145/3542929.3563465
     pdf: ./assets/files/workload-consolidation-socc22.pdf
-    image: ./assets/img/placeholder.png
+    bibtex: ./assets/files/workload-consolidation-socc22.txt
+    image: ./assets/img/workload-consolidation-cover.png
     selected: false
 
   - title: "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving"

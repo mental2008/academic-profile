@@ -1,0 +1,6 @@
+@inproceedings{jiang2026FlashPS,
+  title = {FlashPS: {{Efficient}} generative image editing with mask-aware caching and scheduling},
+  author = {Jiang, Xiaoxiao and Li, Suyi and Yang, Lingyun and Feng, Tianyu and Di, Zhipeng and Lu, Weiyi and Zhu, Guoxuan and Lin, Xiu and Liu, Kan and Yu, Yinghao and Lan, Tao and Yang, Guodong and Qu, Lin and Zhang, Liping and Wang, Wei},
+  booktitle = {Proc. ACM EuroSys},
+  year = {2026}
+}

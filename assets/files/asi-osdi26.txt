@@ -1,0 +1,6 @@
+@inproceedings{li2026ASI,
+  title = {Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production {AI} Clusters at {Alibaba}},
+  author = {Li, Suyi and Yang, Lingyun and Yu, Haoxuan and Yao, Sheng and Wu, Tianyuan and Jiang, Xiaoxiao and Lu, Hanfeng and Wang, Kangjin and Wang, Chenhao and Xu, Shenglin and Wang, Lun and Duan, Qingyang and Liang, Shenghao and Lin, Xiu and Zhang, Meng and Wu, Wenchao and Yu, Yinghao and Yang, Guodong and Zhang, Liping and Wang, Wei},
+  booktitle = {Proc. USENIX OSDI},
+  year = {2026}
+}
