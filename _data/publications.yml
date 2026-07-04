@@ -1,5 +1,15 @@
 main:
 
+  - title: "DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows"
+    authors: <strong><u>Lingyun Yang</u></strong>, Suyi Li* <small>(Co-first author)</small>, Tianyu Feng, Xiaoxiao Jiang, Zhipeng Di, Weiyi Lu, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
+    conference_short: SOSP
+    conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2026.
+    source: https://arxiv.org/abs/2604.08123
+    arxiv: https://arxiv.org/abs/2604.08123
+    bibtex: ./assets/files/diflow-sosp26.txt
+    image: ./assets/img/diflow-cover.png
+    selected: true
+
   - title: "Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba"
     authors: Suyi Li*, <strong><u>Lingyun Yang</u>* <small>(Co-first author)</small></strong>, Haoxuan Yu, Sheng Yao, Tianyuan Wu, Xiaoxiao Jiang, Hanfeng Lu, Kangjin Wang, Chenhao Wang, Shenglin Xu, Lun Wang, Qingyang Duan, Shenghao Liang, Xiu Lin, Meng Zhang, Wenchao Wu, Yinghao Yu, Guodong Yang, Liping Zhang, Wei Wang
     conference_short: OSDI

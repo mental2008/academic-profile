@@ -1,0 +1,6 @@
+@inproceedings{yang2026DiFlow,
+  title = {DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows},
+  author = {Yang, Lingyun and Li, Suyi and Feng, Tianyu and Jiang, Xiaoxiao and Di, Zhipeng and Lu, Weiyi and Liu, Kan and Yu, Yinghao and Lan, Tao and Yang, Guodong and Qu, Lin and Zhang, Liping and Wang, Wei},
+  booktitle = {Proc. ACM SOSP},
+  year = {2026}
+}
