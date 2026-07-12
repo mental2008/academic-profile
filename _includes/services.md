@@ -1,5 +1,6 @@
 ## Academic Services
 
+- <strong>Journal Reviewer: </strong>ACM Transactions on Architecture and Code Optimization (2026)
 - <strong>Artifact Evaluation Committee: </strong>ACM SOSP (2023, 2025), ACM SIGCOMM (2024), IEEE HPCA (2024), USENIX OSDI (2023), USENIX ATC (2023), MLSys (2023)
 - <strong>External Conference Reviewer: </strong>IEEE INFOCOM (2022 -- 2025), IEEE ICDCS (2023, 2025), IEEE ICNP (2024), ACM APSys (2021), IEEE MSN (2021), EAI Qshine (2020)
 - <strong>External Journal Reviewer: </strong>IEEE Transactions on Cloud Computing (2025)
