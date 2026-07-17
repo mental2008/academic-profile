@@ -1,5 +1,16 @@
 main:
 
+  - title: "Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent"
+    authors: <strong><u>Lingyun Yang</u>*</strong>, Yuxiao Wang* <small>(Co-first author)</small>, Shenghao Liang, Linfeng Yang, Daocheng Ying, Chunbo You, Rui Zhang, Luping Wang, Yinghao Yu, Guodong Yang, Liping Zhang
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2607.14541, 2026.
+    source: https://arxiv.org/abs/2607.14541
+    arxiv: https://arxiv.org/abs/2607.14541
+    atrex_bench: https://github.com/alibaba/atrex-bench
+    atrex_kernel_agent: https://github.com/alibaba/atrex-kernel-agent
+    image: ./assets/img/atrex-cover.png
+    selected: true
+
   - title: "DiFlow: A System for Micro-Serving Text-to-Image Diffusion Workflows"
     authors: <strong><u>Lingyun Yang</u>*</strong>, Suyi Li* <small>(Co-first author)</small>, Tianyu Feng, Xiaoxiao Jiang, Zhipeng Di, Weiyi Lu, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
     conference_short: SOSP

@@ -39,6 +39,12 @@
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       {% endif %}
+      {% if link.atrex_bench %}
+      <a href="{{ link.atrex_bench }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Atrex-Bench</a>
+      {% endif %}
+      {% if link.atrex_kernel_agent %}
+      <a href="{{ link.atrex_kernel_agent }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Atrex-Kernel-Agent</a>
+      {% endif %}
       {% if link.trace %} 
       <a href="{{ link.trace }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Trace</a>
       {% endif %}
@@ -108,6 +114,12 @@
       {% endif %}
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% endif %}
+      {% if link.atrex_bench %}
+      <a href="{{ link.atrex_bench }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Atrex-Bench</a>
+      {% endif %}
+      {% if link.atrex_kernel_agent %}
+      <a href="{{ link.atrex_kernel_agent }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Atrex-Kernel-Agent</a>
       {% endif %}
       {% if link.trace %} 
       <a href="{{ link.trace }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Trace</a>
@@ -213,4 +225,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-
