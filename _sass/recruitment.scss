@@ -1,0 +1,35 @@
+.recruitment {
+  margin: 24px 0;
+  padding: 20px;
+  border: 1px solid #d3e4ef;
+  border-left: 3px solid #3399cc;
+  border-radius: 4px;
+  background-color: #f5f9fc;
+
+  h2 {
+    margin: 0 0 12px;
+    font-size: 125%;
+  }
+
+  p {
+    margin: 0 0 12px;
+  }
+
+  ul {
+    margin: 0 0 12px;
+    padding-left: 20px;
+  }
+
+  li + li {
+    margin-top: 4px;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+}

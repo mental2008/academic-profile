@@ -2,3 +2,12 @@
 ---
 
 @import "minimal-light";
+@import "recruitment";
+
+@media (prefers-color-scheme: dark) {
+  .recruitment {
+    background-color: #252d3a;
+    border-color: #3c5063;
+    border-left-color: #3eb7f0;
+  }
+}

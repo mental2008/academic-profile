@@ -12,6 +12,18 @@ My current research interests center on building **agentic AI infrastructure**, 
 <!-- <span style="font-style: italic;">I will join Alibaba Group as a Senior Engineer.</span> -->
 <!-- Please feel free to contact me if you are interested in my research. -->
 
+<aside class="recruitment" aria-labelledby="recruitment-title">
+  <h2 id="recruitment-title">We're hiring!</h2>
+  <p>Our team at Alibaba is hiring in the following areas:</p>
+  <ul>
+    <li><strong>GPU Kernel Agent for production-grade auto-optimization</strong></li>
+    <li><strong>Training orchestration, scheduling, and fault recovery at 10,000-GPU scale</strong></li>
+    <li><strong>Training observability and performance optimization</strong></li>
+    <li><strong>Training and inference on in-house AI accelerators</strong></li>
+  </ul>
+  <p>If you're interested, please <a href="mailto:{{ site.email | replace: ' [at] ', '@' }}">contact me</a>.</p>
+</aside>
+
 <!-- ## Research Interests
 
 - Resource management for large-scale AI/GPU clusters
