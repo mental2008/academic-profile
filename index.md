@@ -16,7 +16,7 @@ My current research interests center on building **agentic AI infrastructure**, 
   <h2 id="recruitment-title">We're hiring!</h2>
   <p>Our team at Alibaba is hiring in the following areas:</p>
   <ul>
-    <li><strong>GPU Kernel Agent for production-grade auto-optimization</strong></li>
+    <li><strong>GPU kernel agent for production-grade auto-optimization</strong></li>
     <li><strong>Training orchestration, scheduling, and fault recovery at 10,000-GPU scale</strong></li>
     <li><strong>Training observability and performance optimization</strong></li>
     <li><strong>Training and inference on in-house AI accelerators</strong></li>
