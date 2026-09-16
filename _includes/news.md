@@ -4,11 +4,11 @@
 
 <div class="news" style="margin-bottom: 20px;">
 {% capture recent_news %}
+- 08/2026: We open-sourced [DiFlow](https://github.com/diflow-project/diflow), a system for micro-serving text-to-image diffusion workflows.
 - 07/2026: We released a [technical report](https://arxiv.org/abs/2607.14541) on LLM-generated GPU kernels, along with two open-source projects: [Atrex-Bench](https://github.com/alibaba/atrex-bench) and [Atrex-Kernel-Agent](https://github.com/alibaba/atrex-kernel-agent).
 - 07/2026: DiFlow accepted to [ACM SOSP '26](https://sigops.org/s/conferences/sosp/2026/) *(CCF-A, acceptance rate: 62/390=<u>15.9%</u>)*.
 - 03/2026: ASI paper accepted to [USENIX OSDI '26](https://www.usenix.org/conference/osdi26) *(CCF-A, acceptance rate: 135/679=<u>19.9%</u>)*.
 - 12/2025: I joined Alibaba Group as a Senior Engineer!
-- 08/2025: FlashPS accepted to [ACM EuroSys '26](https://2026.eurosys.org) *(CCF-A, acceptance rate: 79/404=<u>19.6%</u>)*.
 {% endcapture %}
 {{ recent_news | markdownify }}
 </div>
@@ -16,6 +16,7 @@
 <!-- All News Section (Hidden by default) -->
 <div id="all-news" style="display: none;">
 {% capture all_news %}
+- 08/2026: We open-sourced [DiFlow](https://github.com/diflow-project/diflow), a system for micro-serving text-to-image diffusion workflows.
 - 07/2026: We released a [technical report](https://arxiv.org/abs/2607.14541) on LLM-generated GPU kernels, along with two open-source projects: [Atrex-Bench](https://github.com/alibaba/atrex-bench) and [Atrex-Kernel-Agent](https://github.com/alibaba/atrex-kernel-agent).
 - 07/2026: DiFlow accepted to [ACM SOSP '26](https://sigops.org/s/conferences/sosp/2026/) *(CCF-A, acceptance rate: 62/390=<u>15.9%</u>)*.
 - 03/2026: ASI paper accepted to [USENIX OSDI '26](https://www.usenix.org/conference/osdi26) *(CCF-A, acceptance rate: 135/679=<u>19.9%</u>)*.

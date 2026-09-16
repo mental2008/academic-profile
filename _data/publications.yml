@@ -17,6 +17,7 @@ main:
     conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2026.
     source: https://arxiv.org/abs/2604.08123
     arxiv: https://arxiv.org/abs/2604.08123
+    code: https://github.com/diflow-project/diflow
     bibtex: ./assets/files/diflow-sosp26.txt
     image: ./assets/img/diflow-cover.png
     selected: true
