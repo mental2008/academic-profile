@@ -5,6 +5,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint arXiv:2607.14541, 2026.
     source: https://arxiv.org/abs/2607.14541
+    pdf: ./assets/files/atrex-arxiv26.pdf
     arxiv: https://arxiv.org/abs/2607.14541
     atrex_bench: https://github.com/alibaba/atrex-bench
     atrex_kernel_agent: https://github.com/alibaba/atrex-kernel-agent
@@ -16,6 +17,7 @@ main:
     conference_short: SOSP
     conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2026.
     source: https://arxiv.org/abs/2604.08123
+    pdf: ./assets/files/diflow-sosp26.pdf
     arxiv: https://arxiv.org/abs/2604.08123
     code: https://github.com/diflow-project/diflow
     bibtex: ./assets/files/diflow-sosp26.txt
