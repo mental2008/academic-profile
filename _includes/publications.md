@@ -1,6 +1,11 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications 
+<h2 id="publications" style="margin: 2px 0px 0px;">Selected Publications
   <a href="#" id="view-all-link" style="font-size: 14px; font-weight: normal; color: #666; text-decoration: none; margin-left: 10px;">[View All]</a>
 </h2>
+
+<div class="publication-legend">
+  <span><sup>*</sup> Equal contribution</span>
+  <span><sup>#</sup> Student advised by me</span>
+</div>
 
 <div class="publications">
 <ol class="bibliography">
