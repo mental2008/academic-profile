@@ -3,8 +3,8 @@ main:
   - title: "Model-as-a-Service in the Wild: Characterizing Production LLM Inference Clusters at Scale"
     authors: Yiyun Zheng<sup>#</sup>, <strong><u>Lingyun Yang</u></strong>, Yinghao Yu, Guodong Yang, Liping Zhang, Minchen Yu
     conference_short: ATC
-    conference: USENIX Annual Technical Conference <strong>(ATC)</strong>, 2026.
-    source: https://www.usenix.org/conference/atc26
+    conference: ACM SIGOPS Annual Technical Conference <strong>(ATC)</strong>, 2026.
+    source: https://atc.sigops.org/2026/index.html
     image: ./assets/img/placeholder.png
     selected: true
 

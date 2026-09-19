@@ -4,7 +4,7 @@
 
 <div class="news" style="margin-bottom: 20px;">
 {% capture recent_news %}
-- 09/2026: xMaaS accepted to [USENIX ATC '26](https://www.usenix.org/conference/atc26) *(CCF-A, acceptance rate: 135/973=<u>13.9%</u>)*. Congratulations to Yiyun and all other co-authors!
+- 09/2026: xMaaS accepted to [ACM SIGOPS ATC 2026](https://atc.sigops.org/2026/index.html) *(CCF-A, acceptance rate: 135/973=<u>13.9%</u>)*. Congratulations to Yiyun and all other co-authors!
 - 08/2026: We open-sourced [DiFlow](https://github.com/diflow-project/diflow), a system for micro-serving text-to-image diffusion workflows.
 - 07/2026: We released a [technical report](https://arxiv.org/abs/2607.14541) on LLM-generated GPU kernels, along with two open-source projects: [Atrex-Bench](https://github.com/alibaba/atrex-bench) and [Atrex-Kernel-Agent](https://github.com/alibaba/atrex-kernel-agent).
 - 07/2026: DiFlow accepted to [ACM SOSP '26](https://sigops.org/s/conferences/sosp/2026/) *(CCF-A, acceptance rate: 62/390=<u>15.9%</u>)*.
@@ -17,7 +17,7 @@
 <!-- All News Section (Hidden by default) -->
 <div id="all-news" style="display: none;">
 {% capture all_news %}
-- 09/2026: xMaaS accepted to [USENIX ATC '26](https://www.usenix.org/conference/atc26) *(CCF-A, acceptance rate: 135/973=<u>13.9%</u>)*. Congratulations to Yiyun and all other co-authors!
+- 09/2026: xMaaS accepted to [ACM SIGOPS ATC 2026](https://atc.sigops.org/2026/index.html) *(CCF-A, acceptance rate: 135/973=<u>13.9%</u>)*. Congratulations to Yiyun and all other co-authors!
 - 08/2026: We open-sourced [DiFlow](https://github.com/diflow-project/diflow), a system for micro-serving text-to-image diffusion workflows.
 - 07/2026: We released a [technical report](https://arxiv.org/abs/2607.14541) on LLM-generated GPU kernels, along with two open-source projects: [Atrex-Bench](https://github.com/alibaba/atrex-bench) and [Atrex-Kernel-Agent](https://github.com/alibaba/atrex-kernel-agent).
 - 07/2026: DiFlow accepted to [ACM SOSP '26](https://sigops.org/s/conferences/sosp/2026/) *(CCF-A, acceptance rate: 62/390=<u>15.9%</u>)*.
