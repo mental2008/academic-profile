@@ -14,7 +14,7 @@ main:
     conference: arXiv preprint arXiv:2609.30057, 2026.
     source: https://arxiv.org/abs/2609.30057
     arxiv: https://arxiv.org/abs/2609.30057
-    image: ./assets/img/placeholder.png
+    image: ./assets/img/krex-cover.png
     selected: true
 
   - title: "Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent"
