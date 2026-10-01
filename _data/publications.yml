@@ -36,6 +36,7 @@ main:
     conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2026.
     source: https://dl.acm.org/doi/10.1145/3830418.3843880
     pdf: ./assets/files/diflow-sosp26.pdf
+    slides: ./assets/files/diflow-sosp26-slides.pdf
     arxiv: https://arxiv.org/abs/2604.08123
     code: https://github.com/diflow-project/diflow
     bibtex: ./assets/files/diflow-sosp26.txt
