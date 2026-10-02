@@ -9,7 +9,7 @@ main:
     selected: true
 
   - title: "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity"
-    authors: Tianyu Feng*, Haoxuan Yu*, Tianyuan Wu, <strong><u>Lingyun Yang</u></strong>, Daocheng Ying, Yuxiao Wang, Ruibo Fan, Yinghao Yu, Guodong Yang, Liping Zhang, Wei Wang
+    authors: Tianyu Feng*<sup>#</sup>, Haoxuan Yu*<sup>#</sup>, Tianyuan Wu, <strong><u>Lingyun Yang</u></strong>, Daocheng Ying, Yuxiao Wang, Ruibo Fan, Yinghao Yu, Guodong Yang, Liping Zhang, Wei Wang
     conference_short: arXiv
     conference: arXiv preprint arXiv:2609.30057, 2026.
     source: https://arxiv.org/abs/2609.30057
