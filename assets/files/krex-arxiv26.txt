@@ -1,0 +1,9 @@
+@misc{feng2026KREX,
+  title = {{KREX}: Concurrent Kernel Benchmarking on Shared {GPU}s via Region-Granular Exclusivity},
+  author = {Feng, Tianyu and Yu, Haoxuan and Wu, Tianyuan and Yang, Lingyun and Ying, Daocheng and Wang, Yuxiao and Fan, Ruibo and Yu, Yinghao and Yang, Guodong and Zhang, Liping and Wang, Wei},
+  year = {2026},
+  eprint = {2609.30057},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.DC},
+  url = {https://arxiv.org/abs/2609.30057}
+}

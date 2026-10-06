@@ -1,0 +1,6 @@
+@inproceedings{zheng2026xMaaS,
+  title = {Model-as-a-Service in the Wild: Characterizing Production {LLM} Inference Clusters at Scale},
+  author = {Zheng, Yiyun and Yang, Lingyun and Yu, Yinghao and Yang, Guodong and Zhang, Liping and Yu, Minchen},
+  booktitle = {Proc. ACM ATC},
+  year = {2026}
+}
