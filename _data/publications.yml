@@ -1,12 +1,20 @@
 main:
 
+  - title: "RelayServe: Accelerating Serverless LLM Cold Start with CPU-GPU Pipelining"
+    authors: Wenhao Zhang<sup>#</sup>, Huiyin Wang, <strong><u>Lingyun Yang</u></strong>, Yinghao Yu, Guodong Yang, Liping Zhang, Yanyan Shen, Linpeng Huang, Youmin Chen
+    conference_short: HPCA
+    conference: IEEE International Symposium on High-Performance Computer Architecture <strong>(HPCA)</strong>, 2027.
+    source: https://hpca2027.hotcrp.com/u/0/paper/1013
+    image: ./assets/img/placeholder.png
+    selected: true
+
   - title: "Model-as-a-Service in the Wild: Characterizing Production LLM Inference Clusters at Scale"
     authors: Yiyun Zheng<sup>#</sup>, <strong><u>Lingyun Yang</u></strong>, Yinghao Yu, Guodong Yang, Liping Zhang, Minchen Yu
     conference_short: ATC
     conference: ACM SIGOPS Annual Technical Conference <strong>(ATC)</strong>, 2026.
     source: https://atc.sigops.org/2026/index.html
     bibtex: ./assets/files/xmaas-atc26.txt
-    image: ./assets/img/placeholder.png
+    image: ./assets/img/xmaas-cover.png
     selected: true
 
   - title: "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity"
