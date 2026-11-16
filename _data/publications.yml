@@ -14,8 +14,10 @@ main:
     conference: ACM SIGOPS Annual Technical Conference <strong>(ATC)</strong>, 2026.
     source: https://dl.acm.org/doi/10.1145/3828523.3857044
     pdf: ./assets/files/xmaas-atc26.pdf
+    trace: https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2026-maas
     bibtex: ./assets/files/xmaas-atc26.txt
     image: ./assets/img/xmaas-cover.png
+    notes: Best Paper Award
     selected: true
 
   - title: "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity"
